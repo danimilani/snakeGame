@@ -1,0 +1,13 @@
+body{
+    height: 90vh;
+    width: 90;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+}
+
+h1{
+    margin-top: 100px;
+}
